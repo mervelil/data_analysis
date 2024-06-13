@@ -15,7 +15,7 @@ Scikit-learn: For customer segmentation and clustering.
 Getting Started
 
 Clone the repository:
-git clone https://github.com/yourusername/superstore-data-analysis.git
+git clone https://github.com/mervelil/-data-analysis.git
 
 Navigate to the project directory:
 cd superstore-data-analysis
